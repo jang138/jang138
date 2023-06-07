@@ -1,5 +1,5 @@
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jang138&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mx1225)](https://solved.ac/mx1225/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mx1225)](https://solved.ac/profile/mx1225)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)

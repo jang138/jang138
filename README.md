@@ -18,4 +18,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:97d9e1,100:d9afd9)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=B5C6DD)

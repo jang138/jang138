@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d9afd9,100:97d9e1&text=%20WonSeok's%20Github%20%20&height=200&fontSize=75&fontColor=ffffff&animation=twinkling)
 
-##😎 소개
+#😎 소개
 웹 개발을 목표로 하는 초보 개발자입니다
 
 <h3>🚀 목표</h3>

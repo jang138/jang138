@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:d9afd9,100:97d9e1&text=%20JangWonSeok%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:d9afd9,100:97d9e1&text=%20WonSeok's%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=blinking)
 
 
 <h3>😎 소개</h3>

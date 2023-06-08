@@ -2,10 +2,10 @@
 
 <h3>😎 소개</h3>
 웹 개발을 목표로 하는 초보 개발자입니다
-</br>
+<br/>
 <h3>🚀 목표</h3>
 꾸준히 한걸음씩 발전하는 개발자를 목표로 합니다
-</br>
+<br/>
 <h3>🛠 SKILLS & TOOLS</h3>
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
-</br>
+<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mx1225)](https://solved.ac/mx1225/)
 
-</br>
+<br/>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=B5C6DD)

@@ -17,8 +17,9 @@
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mx1225)](https://solved.ac/mx1225/)
-
+<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mx1225)](https://solved.ac/mx1225/)
+</div>
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=B5C6DD)

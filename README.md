@@ -1,4 +1,5 @@
-<h1 align="center"> WonSeok Jang </h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?section
 
 <h3>😎 소개</h3>
 웹 개발을 목표로 하는 초보 개발자입니다

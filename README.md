@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d9afd9,100:97d9e1&text=%20WonSeok's%20Gitub%20%20&height=200&fontSize=75&fontColor=ffffff&animation=twinkling)
 
-<h3 align="center">😎 소개</h3>
-<p align="center">
-웹 개발자를 목표로 하는 초보 개발자입니다
-</p>
-<br/>
+
 <h3 align="center">🚀 목표</h3>
 <p align="center">
 꾸준히 한걸음씩 발전하는 개발자를 목표로 합니다

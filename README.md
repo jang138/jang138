@@ -16,11 +16,4 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
 </p><br/>
 
-<div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mx1225)](https://solved.ac/mx1225/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=mx1225&theme=warm)
- 
-</div> 
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=B5C6DD)
